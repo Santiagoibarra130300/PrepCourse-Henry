@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prueba del modulo 2 del prepcourse henry
+prueba de como crear un repositorio desde github y guardarlo en mi escritorio
+
